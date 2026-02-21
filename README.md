@@ -1,6 +1,5 @@
 # Expert Booking App
-
-A MERN app for booking sessions with experts.
+A full-stack MERN application for booking sessions with experts. Users can browse experts, view details, book time slots, and manage their bookings. The app features real-time slot updates, double booking prevention, and proper validation & error handling.
 
 ## Features
 - Browse experts by category and name
