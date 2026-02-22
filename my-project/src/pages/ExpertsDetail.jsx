@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import API from "../api/axios";
-import socket from "../socketio/socket";
+import socket from "../socketio/Socket";
 
 function ExpertsDetail() {
   const { id } = useParams();
